@@ -52,7 +52,7 @@ npx cypress open
 
 💡 Course Info
 This project is based on the YouTube video course:
-Learn Cypress In One Video (freeCodeCamp)
+Learn Cypress In One Video (freeCodeCamp(https://www.youtube.com/watch?v=u8vMu7viCm8))
 
 ✅ Built as a portfolio project to demonstrate test automation skills with Cypress.
 
